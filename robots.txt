@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ben-moussa-wassim.github.io/portolio/sitemap.xml

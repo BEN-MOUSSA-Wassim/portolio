@@ -1,0 +1,17 @@
+{
+  "name": "Wassim Ben Moussa — GIS & Geomatics Engineer",
+  "short_name": "Wassim BM",
+  "description": "Geospatial engineering, Python automation, and telecommunications data quality.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07171f",
+  "theme_color": "#071b25",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
